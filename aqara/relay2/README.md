@@ -5,3 +5,6 @@
 * lumi_relay_c2acn01_0046.bin - в Aqara Home по этой версии было написано так: "исправлена проблема с неработоспособностью реле после отключения питания";
 
 Прошивки предназначены для записи через FlashProgrammer, не через OTA!
+
+![Pins_0](aqara_relay_prog0.jpg)
+![Pins_1](aqara_relay_prog1.jpg)
