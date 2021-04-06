@@ -1,4 +1,5 @@
 ## Оригинальные прошивки для Aqara Intelligent Curtain Motor (ZNCLDJ11LM)
+ * lumi_curtain_erase_pdm_v1.bin - прошивка для очистки EEPROM в залоченном контроллере JN5169;
  * lumi_curtain_0032_08132018.bin
  * lumi_curtain_0034_07172020.bin - Optimize device connection;
  
