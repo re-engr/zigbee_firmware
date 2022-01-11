@@ -1,14 +1,12 @@
-
-# Switch neutral
+# Sensor switch
 В каталоге `fw_original` хранятся оригинальные версии прошивок.   
 В каталоге `fw_custom` хранятся пользовательские версии (**там пока пусто**)
 ## Version
- * fw_original/`lumi_ctrl_neutral2_0018.bin` 
+ * fw_original/`lumi_sensor_switch_v0010.bin` 
  
- Производитель: Aqara  
- Версия ПО: 0.0.0_0018  
- Build date: 11-11-2016  
- Версия без нуля. 2 клавиши.    
-
+ Производитель: MI  
+ Версия ПО: 0.0.0_0010  
+ Build date: Apr 24 2015 20:43:22  
+ 
 ## Pinouts
-![Pins_0](picture/nn_switch_mcu_top.jpg)
+![Pins_0](picture/mi_sw_sensor_bot.jpg)
