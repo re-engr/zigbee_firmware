@@ -6,7 +6,7 @@
 * fw_original/`lumi_sensor_magnet_v0010.bin`;  
  Производитель: MI  
  Версия ПО: 0.0.0_0010  
- Модель: MCCGQ01LM
+ Модель: MCCGQ01LM  
  Build date: Apr 24 2015 16:46:38   
 
 * fw_mccgq11lm_100.bin - первая версия;
