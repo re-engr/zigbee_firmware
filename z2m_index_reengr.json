@@ -1,0 +1,10 @@
+[
+    {
+        "fileVersion": 101,
+        "fileSize": 128830,
+        "manufacturerCode": 4151,
+        "imageType": 260,
+        "sha512": "627b1307b7565ebcf9c89156d681b38b8564dd1da20d073256ef106c0c69cdbd62b6a61355453a450f8e28d1902f4991762192f38beaf466b055a06971321829",
+        "url": "https://github.com/re-engr/zigbee_firmware/raw/main/aqara/sensor_magnet/fw_custom/v101/fw_mccgq11lm_101.ota"
+    }
+]
