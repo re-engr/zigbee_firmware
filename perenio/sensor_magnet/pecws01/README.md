@@ -11,7 +11,7 @@
  Application version: 25
  SW Build ID: 2.4
  Build date: 20180305-27
- Man ID: 0x1037
+ Man ID: 0x1168
  ```
  * fw_custom/`fw_perenio_pecws01_mccgq11lm_101.bin`  
  ```
